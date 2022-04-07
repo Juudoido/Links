@@ -1,6 +1,6 @@
 # Comentários e Afins
-Eu vou estar atualizando esse repositório sempre que eu achar links e depois eu faço um review com prints para facilitar para vocês, quaisquer sugestões de links ou coisas para adicionar, favor enviar no meu Twitter ou Discord ༼ つ ◕_◕ ༽つ.\
-\
+Eu vou estar atualizando esse repositório sempre que eu achar links e depois eu faço um review com prints para facilitar para vocês, quaisquer sugestões de links ou coisas para adicionar, favor enviar no meu Twitter ou Discord .\
+༼ つ ◕_◕ ༽つ\
 Twitter: @juudoidin \
 Discord: Juu#0820
 
