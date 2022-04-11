@@ -15,7 +15,7 @@ Discord: Juu#0820
 | 5 | **[Github](https://github.com)** | "Rede social" para programadores,<br> melhor do que foto são códigos. :D |
 | 6 | **[VS Code](https://code.visualstudio.com)** | Não conheço um editor de código melhor. |
 | 7 | **[Discord](https://discord.com)** | Melhor ferramenta de comunicação <br> quem discorda é clubista.|
-| 8 | **[OBS Studio](https://obsproject.com/pt-br/download)** | Melhor aplicativos para lives,<br> Sim fazer live é bom as vezes. |
+| 8 | **[OBS Studio](https://obsproject.com/pt-br/download)** | Melhor aplicativos para lives e gravação,<br> Sim fazer live e gravar as coisas é bom as vezes. |
 | 9 | **[BR Modelo](http://www.sis4.com/brModelo/download.html)** | Ótimo para fazer diagramas de DB. |
 | 10 | **[]()** |  |
 
