@@ -17,7 +17,7 @@ Discord: Juu#0820
 | 7 | **[Discord](https://discord.com)** | Melhor ferramenta de comunicação <br> quem discorda é clubista.|
 | 8 | **[OBS Studio](https://obsproject.com/pt-br/download)** | Melhor aplicativos para lives,<br> Sim fazer live é bom as vezes. |
 | 9 | **[BR Modelo](http://www.sis4.com/brModelo/download.html)** | Ótimo para fazer diagramas de DB. |
-| 10 | **[]()** |  |
+| 10 | **[Framer](https://www.framer.com/sites/)** | Bom para fazer o design dos projetos <br> Wireframe |
 
 # Extensões Para Windows
 
@@ -25,7 +25,7 @@ Discord: Juu#0820
 |:------:|:----:|:---------:|
 | 1 | **[ModernFlyouts](https://www.microsoft.com/store/productId/9MT60QV066RP)** | Deixa os Flyouts do Windows mais modernos e bonitinhos. |
 | 2 | **[Volumey](https://www.microsoft.com/store/productId/9MZCQ03MX0S3)** | Ferramenta de mixer pra substituir a padrão. |
-| 3 | **[TranslucenteTB](https://www.microsoft.com/store/productId/9PF4KZ2VN4W9)** | Mudar a opacidade da Taskbar. |
+| 3 | **[TranslucentTB](https://www.microsoft.com/store/productId/9PF4KZ2VN4W9)** | Mudar a opacidade da Taskbar. |
 
 \
 Espero ajudar alguém com isso! ❤
